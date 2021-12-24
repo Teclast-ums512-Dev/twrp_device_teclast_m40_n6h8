@@ -25,4 +25,4 @@ Rear Camera  | 8.0 MP, LED flash
 Front Camera | 5.0 MP
 
 ## Device picture
-<img src="https://cdn-files.kimovil.com/default/0006/26/thumb_525924_default_big.jpeg"/>
+<img src="https://cdn-files.kimovil.com/default/0005/39/thumb_438836_default_big.jpeg"/>
